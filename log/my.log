@@ -1,0 +1,23 @@
+2022-08-09 15:46:20.235  INFO 8664 --- [main] com.example.Application                  : Starting Application on DESKTOP-CR34B6L with PID 8664 (started by 86155 in E:\封神伯纳乌\2001200007李维昊硕士\thing\JAVA\javaLearn\3.饮食\1-源码\1-源项目\deliciousFoods-main)
+2022-08-09 15:46:20.249  INFO 8664 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2022-08-09 15:46:20.724  WARN 8664 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2022-08-09 15:46:21.108  INFO 8664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-08-09 15:46:21.127  INFO 8664 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-09 15:46:21.127  INFO 8664 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2022-08-09 15:46:21.132  INFO 8664 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Program Files\Java\jdk-11\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;D:\Anaconda3;D:\Anaconda3\Library\mingw-w64\bin;D:\Anaconda3\Library\usr\bin;D:\Anaconda3\Library\bin;D:\Anaconda3\Scripts;C:\windows\system32;D:\Mysql\mysql-8.0.28-winx64\bin;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\MATLAB\R2017b\runtime\win64;D:\Program Files\MATLAB\R2017b\bin;D:\Program Files\Java\jdk-11\bin;D:\Program Files\Java\jdk-11\jre\bin;D:\WUDownloadCache\app\texlive\2021\bin\win32;D:\WUDownloadCache\bandzip\Bandizip\;D:\Mysql\mysql-5.7.24-winx64\bin;D:\WUDownloadCache\XINJIAN\ja\apache-maven-3.8.6\bin;D:\WUDownloadCache\GIT\git\Git\cmd;D:\python39\Scripts\;D:\python39\;C:\Users\86155\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\PyCharm Community Edition 2021.2.1\bin;;.]
+2022-08-09 15:46:21.190  INFO 8664 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-09 15:46:21.191  INFO 8664 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 893 ms
+2022-08-09 15:46:21.206  INFO 8664 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2022-08-09 15:46:21.210  INFO 8664 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2022-08-09 15:46:21.210  INFO 8664 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2022-08-09 15:46:21.210  INFO 8664 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2022-08-09 15:46:21.210  INFO 8664 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2022-08-09 15:46:21.916  INFO 8664 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-09 15:46:22.164  INFO 8664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-09 15:46:22.167  INFO 8664 --- [main] com.example.Application                  : Started Application in 2.255 seconds (JVM running for 3.183)
+2022-08-09 15:47:39.316  INFO 8664 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-09 15:47:39.317  INFO 8664 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-08-09 15:47:39.324  INFO 8664 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2022-08-09 15:47:39.714  INFO 8664 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-09 15:47:39.903  INFO 8664 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-09 15:47:39.910  WARN 8664 --- [http-nio-8080-exec-6] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [265] milliseconds.
